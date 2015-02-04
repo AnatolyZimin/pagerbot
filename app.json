@@ -1,8 +1,8 @@
 {
-    "name": "Pagerbot",
+    "name": "Pagerbot for RAX",
     "description": "Bot for managing pagerduty schedules, supports irc and slack.",
     "website": "https://github.com/stripe-contrib/pagerbot",
-    "repository": "https://github.com/stripe-contrib/pagerbot",
+    "repository": "https://github.com/rackerlabs/pagerbot",
     "success_url": "/",
     "keywords": [
         "pagerduty",
